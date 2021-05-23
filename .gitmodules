@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Hanzoy/container_identification-junction2021.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/callmetyt/junction2021.git
+[submodule "algo"]
+	path = algo
+	url = https://github.com/Hanzoy/container_identification_algorithm-junction2021.git
